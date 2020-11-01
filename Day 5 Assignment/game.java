@@ -6,7 +6,7 @@ public class game {
     player player=new player();
 
     String[] questionsdata={"Who is the Missile Man of India?","Largest District in Tamil Nadu is ..."};
-    String[] options1={"C. V. Raman","Thiruvallur"};
+    String[] options1={"C. V.Raman","Thiruvallur"};
     String[] options2={"Mylswamy Annadurai","Ariyalur"};
     String[] options3={"A.P.J.Abdul Kalam","Rameshwaram"};
     String[] options4={"Vikram Sarabhai","Trichy"};
@@ -57,3 +57,6 @@ public class game {
     }
 
 }
+
+
+
